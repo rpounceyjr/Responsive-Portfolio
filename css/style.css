@@ -21,3 +21,10 @@ p {
 .swirl-card {
     margin-top: 120px;
 }
+
+@media (max-width: 990px) {
+    .card {
+        margin:0;
+        
+    }
+}
