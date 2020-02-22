@@ -1,12 +1,12 @@
 body{
     font-family: Martel, Arial, sans-serif;
-    background-image: url("images/ignasi_pattern_s.png");
+    background-image: url("../images/ignasi_pattern_s.png");
 }
 p {
     line-height: 200%;
 }
 .container {
-    padding-top:100px;
+    padding-top:125px;
     padding-bottom:100px;
     max-width: 960px;
 }
