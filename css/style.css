@@ -14,17 +14,18 @@ p {
     height: 70px;
     font-size: 30px;
 }
-.pug-img{
-    height:208px;
-}
 
-.swirl-card {
-    margin-top: 120px;
+.card-body {
+    background: rgba(135, 168, 201, 0.1);
+    height: 120px;
+}
+.card-img-top {
+    height: 200px;
 }
 
 @media (max-width: 990px) {
     .card {
-        margin:0;
-        
+        margin:10px;
+        align-content: center;
     }
 }
